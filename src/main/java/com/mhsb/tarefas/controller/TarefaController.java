@@ -22,7 +22,7 @@ import com.mhsb.tarefas.repository.TarefaRepository;
 
 @RestController
 @RequestMapping("/api/tarefas")
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://matheushenrique18.github.io")
 public class TarefaController {
 
 	@Autowired
